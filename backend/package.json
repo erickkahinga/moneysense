@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Income and expense passion project for my love of personal finance",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/erickkahinga/moneysense.git"
+  },
+  "author": "Erick Kahinga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickkahinga/moneysense/issues"
+  },
+  "homepage": "https://github.com/erickkahinga/moneysense#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3",
+    "nodemon": "^3.0.1"
+  }
+}
